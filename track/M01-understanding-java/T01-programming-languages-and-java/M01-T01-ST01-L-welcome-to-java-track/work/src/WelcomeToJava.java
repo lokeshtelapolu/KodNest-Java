@@ -3,7 +3,6 @@ public class WelcomeToJava {
        //Write your code here
        System.out.println("Welcome to Java");
        System.out.println("I am a developer");
-       System.out.println("I am a software developer");
     }
 }
 
